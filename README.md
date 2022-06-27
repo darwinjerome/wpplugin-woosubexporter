@@ -4,7 +4,7 @@ A PHP class that creates and formats an importable subscription data in CSV form
 
 ## Author
 
-[Darwin Jerome](darwinjerome@gmail.com)
+[Darwin Jerome](darwin.tardio.info)
 
 ### Stack
 
